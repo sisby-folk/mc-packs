@@ -1,3 +1,4 @@
+name = "Grey's Fabric 1.17.1"
 author = "Sisby Folks"
 version = "1.0.0"
 pack-format = "packwiz:1.0.0"
@@ -5,11 +6,11 @@ pack-format = "packwiz:1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = ""
+hash = "575a9d1854b82a6bc3fda7e6df8436eca5529a16d6e36a0449f47bd42d425951"
 
 [versions]
-fabric = "0.13.3"
-minecraft = ""
+fabric = "0.11.3"
+minecraft = "1.17.1"
 
 [options]
-acceptable-game-versions = [""]
+acceptable-game-versions = ["1.17", "1.17.1"]
