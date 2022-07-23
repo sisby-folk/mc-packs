@@ -1,0 +1,10 @@
+{
+    "description": "'This is fine too.'",
+    "icon": "minecraft:milk_bucket",
+    "impact": 0,
+    "name": "Sized",
+    "order": 0,
+    "powers": [
+        "tinkerer:sized"
+    ]
+}

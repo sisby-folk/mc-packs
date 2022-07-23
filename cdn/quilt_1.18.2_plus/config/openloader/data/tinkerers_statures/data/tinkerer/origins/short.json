@@ -1,0 +1,10 @@
+{
+    "description": "'It's a bit drafty actually.'",
+    "icon": "minecraft:experience_bottle",
+    "impact": 0,
+    "name": "Short",
+    "order": 0,
+    "powers": [
+        "tinkerer:short"
+    ]
+}

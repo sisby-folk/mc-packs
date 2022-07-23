@@ -1,0 +1,2133 @@
+{
+	id: "26D6454CBC062E3D"
+	group: "735E26125A90EB5D"
+	order_index: 0
+	filename: "tinkerers_modpack"
+	title: "Introduction"
+	icon: "minecraft:bookshelf"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "Welcome to §a§lTinkerer's Quilt!§r"
+			x: 0.0d
+			y: -1.0d
+			shape: "rsquare"
+			subtitle: "Humans are also allowed, but you're on thin ice, buddy!"
+			description: [
+				"This is a Vanilla-Compatible Modpack made by Kapesi, Clawby, Le'mer and Herrah"
+				""
+				"It avoids adding any blocks or items."
+				""
+				"Instead, it focuses on minor Quality of Life (QoL) changes, tweaks, and simple added features."
+				""
+				"To access these quests, use the quest book or press §nJ§r at any time."
+				""
+				"Quests are split into several categories, which are shown on the collapsible left pane."
+				"§l§ePlease move your mouse to the left of the screen and click the pin when you close this quest!!!§r"
+				""
+				"Quests give rewards, and can guide you through the progression of the game and what's out there in the world!"
+				""
+				"Some quests just provide information, and only need their task to be \"Clicked\" to complete them."
+			]
+			id: "15402DCFAC7CC56A"
+			tasks: [{
+				id: "774A1B2AF13DC558"
+				type: "stat"
+				title: "Start a New World"
+				icon: "ftbquests:book"
+				disable_toast: true
+				stat: "minecraft:play_time"
+				value: 1
+			}]
+			rewards: [
+				{
+					id: "7F1DBC92AA84645F"
+					type: "item"
+					auto: "enabled"
+					item: "ftbquests:book"
+				}
+				{
+					id: "590D6DB22646789C"
+					type: "item"
+					item: "minecraft:bread"
+					count: 10
+				}
+				{
+					id: "08A857F254EB7395"
+					type: "command"
+					title: "Thanks for downloading!"
+					icon: "minecraft:spore_blossom"
+					auto: "no_toast"
+					command: "/recipe give @p *"
+					player_command: false
+				}
+			]
+		}
+		{
+			title: "Basic Controls"
+			icon: "minecraft:command_block"
+			disable_toast: true
+			x: -2.0d
+			y: 0.5d
+			shape: "octagon"
+			subtitle: "Zoom, Crawl, and More!"
+			description: [
+				"Use §nWASD§r to move, §nSpace§r to jump, §nShift§r to sprint, and §nCtrl§r to sneak!"
+				""
+				"You can change these and further binds in the controls menu!"
+			]
+			dependencies: ["15402DCFAC7CC56A"]
+			hide: true
+			dependency_requirement: "one_started"
+			id: "7840EB3C8B8048EF"
+			tasks: [{
+				id: "1458865ACC4EFFB5"
+				type: "checkmark"
+				title: "Click Here"
+			}]
+		}
+		{
+			title: "Character Customization"
+			icon: "minecraft:dragon_breath"
+			disable_toast: true
+			x: 2.0d
+			y: 0.5d
+			shape: "octagon"
+			subtitle: "funky plural modpack :)"
+			description: ["You can use /showarmor and /hidearmor to disable armor showing over your skin."]
+			dependencies: ["15402DCFAC7CC56A"]
+			hide: true
+			id: "227C88C00E509DAD"
+			tasks: [{
+				id: "636D01F223970749"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+			rewards: [{
+				id: "5640B17D2DD06407"
+				type: "item"
+				item: {
+					id: "minecraft:leather_boots"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "Ok Zoomer"
+			icon: "minecraft:spyglass"
+			disable_toast: true
+			x: -3.0d
+			y: 1.0d
+			shape: "square"
+			subtitle: "Press C!"
+			description: [
+				"Ok Zoomer allows you to zoom in your field of view at any time."
+				""
+				"Hold §nC§r to zoom and see far away objects."
+			]
+			dependencies: ["7840EB3C8B8048EF"]
+			hide: true
+			id: "7FB0EF27995193D0"
+			tasks: [{
+				id: "22C4AF07A114E0C3"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			title: "Ears"
+			icon: {
+				id: "minecraft:turtle_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			disable_toast: true
+			x: 1.0d
+			y: 1.0d
+			shape: "square"
+			subtitle: "Custom Nonhuman Skins!"
+			description: ["Ears allows you to have custom horns, wings, ears, claws, and more! You can create your own ears-compatible skin online - Press §nALT+M§r and click \"Ears\" to learn more."]
+			dependencies: ["227C88C00E509DAD"]
+			hide: true
+			id: "750E0AD647A0E1B9"
+			tasks: [{
+				id: "1596BC71E3F57772"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			title: "Fabric Tailor"
+			icon: "minecraft:loom"
+			disable_toast: true
+			x: 3.0d
+			y: 1.0d
+			shape: "square"
+			subtitle: "Swap your skin any time!"
+			description: [
+				"Tailor allows you to change what skin you're using at any time by pressing §nALT+T§r"
+				""
+				"By clicking the pink arrow block, skins can be loaded directly from your §l.minecraft/§r folder, by typing their filename."
+				""
+				"To load a skin from the §l/skins/§r folder, simply type §lskins/[filename]§r"
+			]
+			dependencies: ["227C88C00E509DAD"]
+			hide: true
+			id: "25F883DE9018F64F"
+			tasks: [{
+				id: "67C587D15AB24543"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			title: "Ears Easter Eggs"
+			icon: "minecraft:chest"
+			disable_toast: true
+			x: 1.5d
+			y: 2.0d
+			shape: "square"
+			subtitle: "Thanks Una :)"
+			description: ["In the Ears Skin Manipulator (§nALT+M§r->Ears), there's an option to enable a chest bump on your skin if you open the console (§nF12§r) and enter \"xyzzy\""]
+			dependencies: ["227C88C00E509DAD"]
+			hide: true
+			id: "2EC9784A91A2F9CC"
+			tasks: [{
+				id: "1696B8578E406417"
+				type: "checkmark"
+				title: "Wildfire's Chest Mod"
+			}]
+		}
+		{
+			title: "Illuminations"
+			icon: "minecraft:lantern"
+			disable_toast: true
+			x: 2.5d
+			y: 2.0d
+			shape: "square"
+			subtitle: "Get a pride heart pet!"
+			description: ["Illuminations comes with some free pride effects, unlockable if you create an account at https://illuminations.uuid.gg"]
+			dependencies: ["227C88C00E509DAD"]
+			hide: true
+			id: "1C5E62A1B4B818B6"
+			tasks: [{
+				id: "26AAEFF5A4721389"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			title: "Crawling"
+			icon: "minecraft:oak_trapdoor"
+			disable_toast: true
+			x: -1.0d
+			y: 1.0d
+			shape: "square"
+			subtitle: "Why not?"
+			description: [
+				"Fabrication adds many small mechanic changes."
+				""
+				"By pressing §nZ§r, you can toggle between standing, sneaking, and crawling - useful for entering tight spaces."
+			]
+			dependencies: ["7840EB3C8B8048EF"]
+			hide: true
+			id: "3897F1E5A9B9F288"
+			tasks: [{
+				id: "084362F3F8C026F7"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			title: "What The Hell Is That?"
+			icon: "minecraft:book"
+			disable_toast: true
+			x: -2.5d
+			y: 2.0d
+			shape: "square"
+			subtitle: "In-Game Wiki Part 1"
+			description: [
+				"WTHIT provides useful world tooltips."
+				""
+				"If you want to know about a block or entity you're looking at, you can hold §nALT§r to see information about it."
+			]
+			dependencies: ["7840EB3C8B8048EF"]
+			hide: true
+			id: "3370C1D403E805EE"
+			tasks: [{
+				id: "789FA5A1933F692F"
+				type: "checkmark"
+				title: "Click Here"
+			}]
+		}
+		{
+			icon: "minecraft:repeating_command_block"
+			disable_toast: true
+			x: 0.0d
+			y: 2.5d
+			shape: "octagon"
+			subtitle: "Tweak Stuff!"
+			description: [
+				"At any time, you can press §nALT+M§r to enter the mod settings menu."
+				""
+				"This grants access to many of the below options."
+			]
+			dependencies: ["15402DCFAC7CC56A"]
+			id: "337730F25EC36332"
+			tasks: [{
+				id: "22742977937BA2B1"
+				type: "checkmark"
+				title: "Configuration"
+			}]
+		}
+		{
+			icon: "minecraft:orange_stained_glass"
+			disable_toast: true
+			x: -1.0d
+			y: 3.5d
+			shape: "square"
+			subtitle: "Pretty Lighting!"
+			description: ["Iris provides shader options to the pack, which can be set with §nALT+I§r and then toggled with §nI§r"]
+			dependencies: ["337730F25EC36332"]
+			hide: true
+			id: "4CF64C7CE9868214"
+			tasks: [{
+				id: "6B3CFBCE6D2F59FF"
+				type: "checkmark"
+				title: "Iris Shaders"
+			}]
+		}
+		{
+			icon: "minecraft:music_disc_cat"
+			disable_toast: true
+			x: 1.0d
+			y: 3.5d
+			shape: "square"
+			subtitle: "Aural Ambience"
+			description: [
+				"Charmonium adds ambience tracks to various biomes and situations."
+				""
+				"Their volume can be tweaked and individual ambience tracks disabled in the configuration menu."
+			]
+			dependencies: ["337730F25EC36332"]
+			hide: true
+			id: "13C62F809AC9E5C0"
+			tasks: [{
+				id: "6FA74E220F002409"
+				type: "checkmark"
+				title: "Charmonium"
+			}]
+		}
+		{
+			icon: "minecraft:note_block"
+			disable_toast: true
+			x: 0.0d
+			y: 4.0d
+			shape: "square"
+			subtitle: "Species-Apt Footsteps"
+			description: [
+				"Presence footsteps greatly enhances the footstep sound effects found in the game. It has different effects for many block types and other sounds like walking through tall grass."
+				""
+				"It also has options for footsteps more befitting of winged players, or quadrupedal players. You can access the settings to toggle this and the volume with §nALT+P§r"
+			]
+			dependencies: ["337730F25EC36332"]
+			hide: true
+			id: "400B5F405E1E93F9"
+			tasks: [{
+				id: "6EDE69526CCB82A3"
+				type: "checkmark"
+				title: "Presence Footsteps"
+			}]
+		}
+		{
+			title: "Notes"
+			icon: "minecraft:writable_book"
+			disable_toast: true
+			x: -1.5d
+			y: 2.0d
+			shape: "square"
+			subtitle: "Keep track of things!"
+			description: [
+				"Press §nN§r at any time to access the Notes menu."
+				""
+				"Here you can take notes to help remember what you're up to, points of interest, and more!"
+			]
+			dependencies: ["7840EB3C8B8048EF"]
+			hide: true
+			id: "2B3376C79B6DB1C5"
+			tasks: [{
+				id: "164B9DCDA58586E1"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			title: "EMI"
+			icon: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						id: "minecraft:luck_of_the_sea"
+						lvl: 3s
+					}]
+				}
+			}
+			disable_toast: true
+			x: -3.0d
+			y: 3.0d
+			shape: "square"
+			subtitle: "In-Game Wiki Part 2 through ∞"
+			description: [
+				"EMI provides an in-game wiki for how to find or acquire almost any item in the game."
+				""
+				"In any inventory, you can hover over an item and press §nR§r (recipe) to find out how to make or find it"
+				""
+				"You can also press §nU§r (usages) to find out what you can craft an item into."
+				""
+				"Additionally, EMI provides a searchable pane of every item, shown on the right of the screen. Press §nCTRL+O§r to toggle this at any time."
+				""
+				"§nR§r and §nU§r can be used here, or left and right clicking, respectively."
+				""
+				"By clicking the crafting table icon in the bottom right, EMI will instead show craftable §oRecipes§r - §nClick§r or §nShift+Click§r will then place the recipe into the crafting grid."
+			]
+			dependencies: ["3370C1D403E805EE"]
+			id: "393F164200CAC675"
+			tasks: [{
+				id: "29C23CC02A755D6D"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			title: "Origins"
+			icon: "origins:orb_of_origin"
+			disable_toast: true
+			x: 3.0d
+			y: 0.0d
+			shape: "square"
+			subtitle: "It's free species :)"
+			description: [
+				"Origins provides a system for gaining various attributes, advantages, and disadvantages based on an \"Origin\""
+				""
+				"In this pack, you're also able to choose a \"Class\", which provides you a minor buff. And a \"Stature\" which changes your character's size."
+				""
+				"Some origins have active abilities, which are mostly bound to §nG§r and §nH§r - see your origin using §nALT+O§r at any time to check."
+			]
+			dependencies: ["227C88C00E509DAD"]
+			hide: true
+			id: "1FE5F243E8C8329E"
+			tasks: [{
+				id: "2B53462C6E1880B8"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			icon: "minecraft:cyan_shulker_box"
+			disable_toast: true
+			x: 5.0d
+			y: -1.0d
+			shape: "gear"
+			subtitle: "Y'know, if you need them"
+			dependencies: ["28721A928E53EFE4"]
+			hide: true
+			optional: true
+			id: "427C2EC08A9D9F91"
+			tasks: [{
+				id: "2808DDC4658EACBA"
+				type: "checkmark"
+				title: "More Origin Swaps"
+			}]
+			rewards: [{
+				id: "6E030CD1B0EFD1BB"
+				type: "item"
+				item: {
+					id: "minecraft:cyan_shulker_box"
+					Count: 1b
+					tag: {
+						display: {
+							Name: "{\"text\":\"Origins Swaps for Systems\"}"
+						}
+						BlockEntityTag: {
+							id: "minecraft:shulker_box"
+							Items: [
+								{
+									Slot: 0b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 1b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 2b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 3b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 4b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 5b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 6b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 7b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 8b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 9b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 10b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 11b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 12b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 13b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 14b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 15b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 16b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 17b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 18b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 19b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 20b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 21b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 22b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 23b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 24b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 25b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+								{
+									Slot: 26b
+									Count: 1b
+									id: "origins:orb_of_origin"
+								}
+							]
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "8x Origin Swap Boxes"
+			icon: "minecraft:cyan_shulker_box"
+			disable_toast: true
+			x: 6.0d
+			y: -1.5d
+			shape: "gear"
+			subtitle: "Ur welcome"
+			dependencies: ["427C2EC08A9D9F91"]
+			hide: true
+			optional: true
+			id: "318AA1006D702E12"
+			tasks: [{
+				id: "148E2E713AC73F49"
+				type: "checkmark"
+				title: "More origin swaps for systems"
+			}]
+			rewards: [
+				{
+					id: "6BAFA98062F7E214"
+					type: "item"
+					item: {
+						id: "minecraft:cyan_shulker_box"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"Origins Swaps for Systems\"}"
+							}
+							BlockEntityTag: {
+								id: "minecraft:shulker_box"
+								Items: [
+									{
+										Slot: 0b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 1b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 2b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 3b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 4b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 5b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 6b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 7b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 8b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 9b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 10b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 11b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 12b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 13b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 14b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 15b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 16b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 17b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 18b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 19b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 20b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 21b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 22b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 23b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 24b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 25b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 26b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+								]
+							}
+						}
+					}
+				}
+				{
+					id: "75871A63D5DEE5F7"
+					type: "item"
+					item: {
+						id: "minecraft:cyan_shulker_box"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"Origins Swaps for Systems\"}"
+							}
+							BlockEntityTag: {
+								id: "minecraft:shulker_box"
+								Items: [
+									{
+										Slot: 0b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 1b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 2b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 3b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 4b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 5b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 6b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 7b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 8b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 9b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 10b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 11b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 12b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 13b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 14b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 15b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 16b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 17b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 18b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 19b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 20b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 21b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 22b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 23b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 24b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 25b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 26b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+								]
+							}
+						}
+					}
+				}
+				{
+					id: "3BEA745754BA7AE6"
+					type: "item"
+					item: {
+						id: "minecraft:cyan_shulker_box"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"Origins Swaps for Systems\"}"
+							}
+							BlockEntityTag: {
+								id: "minecraft:shulker_box"
+								Items: [
+									{
+										Slot: 0b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 1b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 2b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 3b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 4b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 5b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 6b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 7b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 8b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 9b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 10b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 11b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 12b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 13b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 14b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 15b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 16b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 17b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 18b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 19b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 20b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 21b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 22b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 23b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 24b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 25b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 26b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+								]
+							}
+						}
+					}
+				}
+				{
+					id: "2DF0DCC9D968EC74"
+					type: "item"
+					item: {
+						id: "minecraft:cyan_shulker_box"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"Origins Swaps for Systems\"}"
+							}
+							BlockEntityTag: {
+								id: "minecraft:shulker_box"
+								Items: [
+									{
+										Slot: 0b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 1b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 2b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 3b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 4b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 5b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 6b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 7b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 8b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 9b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 10b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 11b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 12b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 13b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 14b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 15b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 16b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 17b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 18b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 19b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 20b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 21b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 22b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 23b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 24b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 25b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 26b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+								]
+							}
+						}
+					}
+				}
+				{
+					id: "6BE60B712CDD966E"
+					type: "item"
+					item: {
+						id: "minecraft:cyan_shulker_box"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"Origins Swaps for Systems\"}"
+							}
+							BlockEntityTag: {
+								id: "minecraft:shulker_box"
+								Items: [
+									{
+										Slot: 0b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 1b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 2b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 3b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 4b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 5b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 6b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 7b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 8b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 9b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 10b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 11b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 12b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 13b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 14b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 15b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 16b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 17b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 18b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 19b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 20b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 21b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 22b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 23b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 24b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 25b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 26b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+								]
+							}
+						}
+					}
+				}
+				{
+					id: "05151BE07B7005BD"
+					type: "item"
+					item: {
+						id: "minecraft:cyan_shulker_box"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"Origins Swaps for Systems\"}"
+							}
+							BlockEntityTag: {
+								id: "minecraft:shulker_box"
+								Items: [
+									{
+										Slot: 0b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 1b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 2b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 3b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 4b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 5b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 6b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 7b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 8b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 9b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 10b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 11b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 12b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 13b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 14b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 15b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 16b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 17b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 18b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 19b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 20b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 21b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 22b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 23b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 24b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 25b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 26b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+								]
+							}
+						}
+					}
+				}
+				{
+					id: "42244A972EB83CF4"
+					type: "item"
+					item: {
+						id: "minecraft:cyan_shulker_box"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"Origins Swaps for Systems\"}"
+							}
+							BlockEntityTag: {
+								id: "minecraft:shulker_box"
+								Items: [
+									{
+										Slot: 0b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 1b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 2b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 3b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 4b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 5b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 6b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 7b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 8b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 9b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 10b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 11b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 12b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 13b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 14b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 15b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 16b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 17b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 18b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 19b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 20b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 21b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 22b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 23b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 24b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 25b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 26b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+								]
+							}
+						}
+					}
+				}
+				{
+					id: "5A397884B016F509"
+					type: "item"
+					item: {
+						id: "minecraft:cyan_shulker_box"
+						Count: 1b
+						tag: {
+							display: {
+								Name: "{\"text\":\"Origins Swaps for Systems\"}"
+							}
+							BlockEntityTag: {
+								id: "minecraft:shulker_box"
+								Items: [
+									{
+										Slot: 0b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 1b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 2b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 3b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 4b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 5b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 6b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 7b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 8b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 9b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 10b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 11b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 12b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 13b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 14b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 15b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 16b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 17b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 18b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 19b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 20b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 21b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 22b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 23b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 24b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 25b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+									{
+										Slot: 26b
+										Count: 1b
+										id: "origins:orb_of_origin"
+									}
+								]
+							}
+						}
+					}
+				}
+			]
+		}
+		{
+			title: "Quests"
+			icon: "ftbquests:barrier"
+			disable_toast: true
+			x: 0.0d
+			y: -3.0d
+			shape: "octagon"
+			subtitle: "Literally what is this screen"
+			description: [
+				"Welcome to Quests! This is a system supplied by §oFTB Quests§r and filled out specifically for this modpack."
+				""
+				"Quests are similar to achievements in other games, but they have a specific order, as well as providing rewards."
+				""
+				"Here they provide direction - You'll see features of the game you've maybe never delved into, and get information on the fine details of minecraft and this pack."
+			]
+			dependencies: ["15402DCFAC7CC56A"]
+			hide: true
+			id: "71F61BF18E54FCCE"
+			tasks: [{
+				id: "2D6C6B3CC2F0EBFF"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			title: "Quest Legend"
+			icon: "ftbquests:missing_item"
+			disable_toast: true
+			x: 0.5d
+			y: -4.5d
+			shape: "square"
+			subtitle: "Symbols for Nerds"
+			description: [
+				"Rounded Rectangles - 'Entry' quests. Starts a sequence of other quests."
+				""
+				"Squares - 'Info' quests. They usually have no tasks but a checkmark and (usually) no rewards."
+				""
+				"Octagons - Info quest pack. Shows more info quests when completed."
+				""
+				"Circles - Standard quests."
+				""
+				"Pentagons - 'Feat'/'Diety' Quests. A crowning achievement in the game, with hefty rewards."
+				""
+				"Hexagons - 'Special Interest' quests. An opportunity to dive into a niche mechanic. Might have sub-quests."
+				""
+				"Triangles - Optional quests. Bugged."
+			]
+			dependencies: ["71F61BF18E54FCCE"]
+			hide: true
+			id: "17EA8F543FBC7A6B"
+			tasks: [{
+				id: "44259D76A7BD8554"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+		{
+			title: "Category Legend"
+			icon: "minecraft:bookshelf"
+			disable_toast: true
+			x: -0.5d
+			y: -4.5d
+			shape: "square"
+			subtitle: "Categorization for Nerds"
+			description: [
+				"The quest screen has a pinnable left pane - hover over the left side of the screen to see it."
+				""
+				"§l§nInformation§r: Modpack Information. §oIntroduction§r covers the main features, while §oDiscrepancies§r covers slight differences."
+				""
+				"§l§nThe Basics§r: Gearing up to play, Nether progression, and End progression."
+				""
+				"§l§nGodseeking§r: Dive further into the game's mechanics, and be rewarded by their patrons."
+				""
+				"§lHomesteading§r: Building Bases, Workshops and Mechanisms, Farming, and Modes of Transport."
+				""
+				"§lSelf-Defense§r: All aspects of combat, down to the most niche."
+				""
+				"§lExploration§r: Places to go, Things to see, Villagers to meet."
+			]
+			dependencies: ["71F61BF18E54FCCE"]
+			hide: true
+			id: "3BACF138C63C57B9"
+			tasks: [{
+				id: "700E335DABA81566"
+				type: "checkmark"
+				title: "Click Here!"
+				disable_toast: true
+			}]
+		}
+		{
+			title: "Origin swaps for Systems"
+			icon: "minecraft:cyan_shulker_box"
+			disable_toast: true
+			x: 4.0d
+			y: -0.5d
+			shape: "gear"
+			subtitle: "bc y'know euphoria or whatever"
+			description: [
+				"Considering this is a plural modpack, here's a shulker box stuffed full of \"Orb of Origin\" - which allows you to change your origin."
+				""
+				"Try not to abuse the free switches for a gameplay advantage! This was the best solution I could come up with without making a whole-ass pluralkit integration mod"
+			]
+			dependencies: ["1FE5F243E8C8329E"]
+			optional: true
+			id: "28721A928E53EFE4"
+			tasks: [{
+				id: "70AAE40641A21AE7"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+			rewards: [{
+				id: "0FC010DA675D28F9"
+				type: "item"
+				item: {
+					id: "minecraft:cyan_shulker_box"
+					Count: 1b
+					tag: {
+						display: {
+							Name: "{\"text\":\"Origins Swaps for Systems\"}"
+						}
+						BlockEntityTag: {
+							id: "minecraft:shulker_box"
+							Items: [
+								{
+									Slot: 0b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 1b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 2b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 3b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 4b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 5b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 6b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 7b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 8b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 9b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 10b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 11b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 12b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 13b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 14b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 15b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 16b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 17b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 18b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 19b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 20b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 21b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 22b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 23b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 24b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 25b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+								{
+									Slot: 26b
+									id: "origins:orb_of_origin"
+									Count: 1b
+								}
+							]
+						}
+					}
+				}
+			}]
+		}
+		{
+			title: "Portable Crafting Standalone"
+			icon: "minecraft:crafting_table"
+			disable_toast: true
+			x: -3.0d
+			y: 0.0d
+			shape: "square"
+			subtitle: "I made this :)"
+			description: [
+				"Portable Crafting Standalone allows you to open the crafting grid anywhere, as long as you have a crafting table in your inventory."
+				""
+				"Just press §nV§r and get Crafting!"
+			]
+			dependencies: ["7840EB3C8B8048EF"]
+			hide: true
+			id: "438625063C95601F"
+			tasks: [{
+				id: "2797C82C4C23C124"
+				type: "checkmark"
+				title: "Click Here!"
+			}]
+		}
+	]
+}

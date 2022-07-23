@@ -1,0 +1,10 @@
+{
+    "description": "Half-Tall",
+    "icon": "minecraft:cookie",
+    "impact": 0,
+    "name": "Demi-Tall",
+    "order": 0,
+    "powers": [
+        "tinkerer:demitall"
+    ]
+}

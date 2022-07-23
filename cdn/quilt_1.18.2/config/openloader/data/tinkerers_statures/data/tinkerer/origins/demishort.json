@@ -1,0 +1,10 @@
+{
+    "description": "Half-Short",
+    "icon": "minecraft:honey_bottle",
+    "impact": 0,
+    "name": "Demi-Short",
+    "order": 0,
+    "powers": [
+        "tinkerer:demishort"
+    ]
+}

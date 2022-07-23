@@ -1,0 +1,1764 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/HorseBuff.toml"
+hash = "2ad80ee3cd6adb8579ea0efd677c8f5ee7a297b50b4d2c4c1c81f85edd1e2283"
+
+[[files]]
+file = "config/WildfireGender/09391869-132f-4fc2-9c92-e58af55cbabb.json"
+hash = "0136cf965d6336ded22c5210458d3bde076a22919526673b11adf6c394551fd3"
+
+[[files]]
+file = "config/advancementinfo.json5"
+hash = "113f8e67cb3c24d7615b0b1e5e5598e487586fee227bf0bf721102e50671b664"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "cbebc31e9b6e09302aa2f25983ff6ac9e5212899bc77650d475c9a47739df6a5"
+
+[[files]]
+file = "config/blanket_client-fixes.json"
+hash = "d10ce3f6169d35d2b7e09cefc5e6c2c77cc897690f11aac9fae62f1f3e1d637e"
+
+[[files]]
+file = "config/carpet/default_carpet-fixes.conf"
+hash = "498eddb1de1695ab78c300f326ace36f0c7d55022bfa678ad0d6acadfd8d3909"
+
+[[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "82884090575fc69daaf50c7b0ad81aacceae12c4eb1570c29856c988740b1950"
+
+[[files]]
+file = "config/citresewn.json"
+hash = "7942a329d631eaccd78fa9f5eea061dca41f0504b5ea0052d9ca5d6889b3a395"
+
+[[files]]
+file = "config/colormatic.properties"
+hash = "2e668d54f365736fbd4c97b1f42535ce889587d18b3caa48830219f25f48d124"
+
+[[files]]
+file = "config/darkness.properties"
+hash = "d8c50dff2fff8773f2211bbac3f15e1a86feb6f9d666eb75944d50b8d00eb4b4"
+
+[[files]]
+file = "config/fabrication/features.ini"
+hash = "7b9bc828e1370846c585349b50d3f445ab672a1bae581a09e89fa092feffccea"
+
+[[files]]
+file = "config/fabrication/yeet_recipes.ini"
+hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
+
+[[files]]
+file = "config/forcecloseloadingscreen.json"
+hash = "ab85b51df50fc88da375ff53bbdd7120c07df8c77fde8e9d9a837623e7767fcc"
+
+[[files]]
+file = "config/ftbquests/quests/chapter_groups.snbt"
+hash = "7896313f20004224eef0280e2c277eab0538d6c5448b390781ef5d2022a759c4"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/combat.snbt"
+hash = "8c53c9147fd4d118e7bac48b05af2703e21bff05cf2ced36a0c785c15e922ed5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/discrepancies.snbt"
+hash = "17cf873931eee1e2bbddfa01f3dc1dfadf58b86d0a4214fe20b160ec69d5b012"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/homesteading.snbt"
+hash = "e3556fa780b2c8a57d0e510d78c074ab2a820794acc5f2535ef549b3cd41ca70"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_basics.snbt"
+hash = "76d3942a7b108d43b91e11b0739923dd6ff87730c993f9f376295109b43fe9a5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/tinkerers_modpack.snbt"
+hash = "b6e9c6e8f198134e67118031e2fad1d28c71bad64d36e8b0cc4b1a9d53222059"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/world.snbt"
+hash = "64cafd3b2ec48555796367f293fb09cf2bb4c622d8422d308bc350e07ea40306"
+
+[[files]]
+file = "config/ftbquests/quests/data.snbt"
+hash = "be4933ebb232c5606a57ebd814de7acb07752cc52d7624d9053bfe332568a6e5"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/fences.snbt"
+hash = "27c0b67841f23e281c1117b5d7e1fd3064f76e5cb595f289793574f15204f2c2"
+
+[[files]]
+file = "config/ftbquests/quests/reward_tables/trident_enchants.snbt"
+hash = "b400495d827f7e688a0bae2c9546139be7ee1bfad4cf2652bce1722f8c82e51b"
+
+[[files]]
+file = "config/idwtialsimmoedm.json"
+hash = "8b683921d981cf2e815ce726b04f5b9bfeb6d0551440bf39318754bf0a99c86d"
+
+[[files]]
+file = "config/inspecio.json"
+hash = "4435ab1d6a324ad59d5357cd287982c03c8e618db506f50b48d3e7e59037462c"
+
+[[files]]
+file = "config/openloader/data/Arachnid.zip"
+hash = "c923412ab419749d4fffb64ebe33ba5ef0bbf647ac0ed14d0da8c8a59ffd34af"
+
+[[files]]
+file = "config/openloader/data/Avian_V3.1.zip"
+hash = "23840fe6c7bcb559ed3f8bc759708238b9f4d504f60fb3690434a32e95c07695"
+
+[[files]]
+file = "config/openloader/data/Blazeborn_V2.2.zip"
+hash = "75ef1063f11d4f34524cfc776659835eb9c559e9d7b4fa526a9f09ab8dc268be"
+
+[[files]]
+file = "config/openloader/data/Feline.zip"
+hash = "603977a84e329caad95b6098a525fe4d34f316cb72848703f6d7fe71e5e6ffc4"
+
+[[files]]
+file = "config/openloader/data/Lepus.zip"
+hash = "e6e28ac64ccb5ecf4877e7e52261f620a92dd2ef726918c535c71fb8898666a5"
+
+[[files]]
+file = "config/openloader/data/Merling.zip"
+hash = "6978808a2c0b518fe58fa58a7f84b9ad9816705eefb8710cb8e7d386d9a188e5"
+
+[[files]]
+file = "config/openloader/data/Phantom.zip"
+hash = "5a231c232096108192c89da354fa0ae3844ad9e59e8ec7c89a1a5d11d3bb86b6"
+
+[[files]]
+file = "config/openloader/data/Shulk.zip"
+hash = "b4e14792fd0ca8e36d83122e71fd3d666ec0cca8669ab29fdca6928dbd24cbfd"
+
+[[files]]
+file = "config/openloader/data/VanillaTweaks_c278482.zip"
+hash = "b1adcace3853862828c37b2deb7e9e9b374042914b48f54a5b58645ac0ad6395"
+
+[[files]]
+file = "config/openloader/data/anti ghast grief v1.1.2.zip"
+hash = "50ea876d08f4f01f9a59eeed55f3e11a6d30863ab226172b359b9a44f914effe"
+
+[[files]]
+file = "config/openloader/data/nullscapes.pw.toml"
+hash = "9b44db177e9c1f9329792c4da4b5613f66889adc52ea384c81c47fb0f4b24b90"
+metafile = true
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/extraorigins/origins/floran.json"
+hash = "2d28426fbf8efd18e9d490db362203fc12c82e865153df23cb271d75c5fd6b44"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/extraorigins/origins/inchling.json"
+hash = "258f39b5decabedac97fdda8778f20294fcaaf790272c85a84c0dcf3f000b90c"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/extraorigins/origins/piglin.json"
+hash = "2d28426fbf8efd18e9d490db362203fc12c82e865153df23cb271d75c5fd6b44"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/extraorigins/origins/truffle.json"
+hash = "1837c0cbe21fd410bb7d8ae91763f1130d86e07e5f056fc00588b7cc2fafae6a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins-classes/origins/merchant.json"
+hash = "335307908374d1eb32fc3c863b921ebc577340a4cd4d638e944c83fabdb87ac3"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins-classes/origins/nitwit.json"
+hash = "693c0c625dcb32ed01ee1d85e4cfaa6eb62a8811863231913adeacc10817c946"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins/origins/arachnid.json"
+hash = "22db69ab850ed67c5d7e6620405eb19c16cced8375eee81d15181ab6f6aa4d46"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins/origins/avian.json"
+hash = "da0ddbb8c8ce915aac1d98aa77ceeb16c09b05e1427c7467306c5789986a2486"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins/origins/blazeborn.json"
+hash = "0537759f32ad79a8c89c9c217aa5eef797f08ec01c92d9b67be44b48f66a3a71"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins/origins/feline.json"
+hash = "da376e4aa1e752f964050d4e1ba60fdd9412f6dae0b78006107b238a56f90d42"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins/origins/human.json"
+hash = "2d34ee98f99d65fc273ce4dd171d708ef9fe897ab88b8261f8f2077bc7d541c0"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins/origins/merling.json"
+hash = "7cda75489d568e308bafeb30d02ef28d3bca6cbc32c2b0970766699cb8a0ad51"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins/origins/phantom.json"
+hash = "0d8d0a8730fc1a2b531fcb00b46f328e23db2f82d4725a90365541338476dc90"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/data/origins/origins/shulk.json"
+hash = "085899a59c3255e296cd0a7bb071010f6f1ed3b863de98362145fea0c805e1b2"
+
+[[files]]
+file = "config/openloader/data/tinkerers_cleanup/pack.mcmeta"
+hash = "64765e564cd9216124cb3b0e73a7427af9fe28476606d72d0e954ff5133199ec"
+
+[[files]]
+file = "config/openloader/data/tinkerers_copper_beacons/data/minecraft/tags/blocks/beacon_base_blocks.json"
+hash = "0598b61263c42e7cc1349ca3fe59666e25a95d3557de1569914b46ad7961b741"
+
+[[files]]
+file = "config/openloader/data/tinkerers_copper_beacons/pack.mcmeta"
+hash = "151c72f24ee91388a9623f130c17e0e2ee145ad4f10752ab43b6fcba3c84c303"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/origins/origin_layers/origin.json"
+hash = "1142f61edb5411c21b0f6c6d64356d84284b611f8f061c16bfff3f4d64e62635"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/origins/dryad.json"
+hash = "e424b8c314405364f8bcf1cf84be8f7dfe350d27c583cf3448950502fe1219f2"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/consumables.json"
+hash = "84ebb76779046717f0b01e7371ddbc052172b477d28bf1d6e2541e31662518ef"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/debuff.json"
+hash = "3f260228fc284deeef4f658b2e0eef4f892ff2b637ec3d1945558035dbd27bb5"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/flammable.json"
+hash = "f059bec1fee23da70376aa77cb66e47c1ed795486d8c2321fe4da399ff508bfb"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/green_thumb.json"
+hash = "d82fd200a7523332e9260150efa984206542707ba255162118c89df92726c292"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/loss.json"
+hash = "4e41ceac3a84969d5461bfd6eb00865bda38d2ace439c4de7463d68dcdcd3ac4"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/no_consume.json"
+hash = "54a36d51a9d76f53cd7c9b0e17868e8ba1c148e92ae09b5f3fe84e97d14b1d65"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/no_food.json"
+hash = "50ba76980a56875b8ad5b788bdf17d24d60d800515875a6057b98ce96d61c739"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/nutrients.json"
+hash = "80237a228b306767935e6dc556ee79bca334edd054b4f38317e1f80d4cf37d38"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/photosynthesis.json"
+hash = "f079b25caace0cb26344b9480fed37d195325bc586848f76f04441edccd3e6c7"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/data/tinkerdryad/powers/rain.json"
+hash = "9a16d3c4e54526058fa2baa6c3c0e97a3870810a227562d6326ece235d4ff7b0"
+
+[[files]]
+file = "config/openloader/data/tinkerers_dryad/pack.mcmeta"
+hash = "8a40457322f04ef2fe2752e24a05f8f4ea11413dc50a24a2db19c86999d6bb56"
+
+[[files]]
+file = "config/openloader/data/tinkerers_humant/data/origins-classes/origins/nitwit.json"
+hash = "693c0c625dcb32ed01ee1d85e4cfaa6eb62a8811863231913adeacc10817c946"
+
+[[files]]
+file = "config/openloader/data/tinkerers_humant/data/origins/origins/human.json"
+hash = "2d34ee98f99d65fc273ce4dd171d708ef9fe897ab88b8261f8f2077bc7d541c0"
+
+[[files]]
+file = "config/openloader/data/tinkerers_humant/pack.mcmeta"
+hash = "4aae4321241af8cdc307d14bc4d718a0f6543223c3f9bd9c20858d3447c4b622"
+
+[[files]]
+file = "config/openloader/data/tinkerers_imp/data/origins/origin_layers/origin.json"
+hash = "462e158edd4d702ecf8a0f53f7b914ca6013b93a8affdd72be60482a2865b91e"
+
+[[files]]
+file = "config/openloader/data/tinkerers_imp/data/tinkerimp/origins/imp.json"
+hash = "3790dd0dc68efe66e248399aa0fd2cd4b6c25cea74c2cacd56cc974ab1d4599f"
+
+[[files]]
+file = "config/openloader/data/tinkerers_imp/data/tinkerimp/powers/bite_sized.json"
+hash = "03dc9a3e856d6fafe605d24eee257f6f941e656a41debe55bdc471158678e491"
+
+[[files]]
+file = "config/openloader/data/tinkerers_imp/data/tinkerimp/powers/jockey.json"
+hash = "e848e6e425145de0ed10b2e4bde295404f2e3da91badc701d63f3cd62f9a045f"
+
+[[files]]
+file = "config/openloader/data/tinkerers_imp/data/tinkerimp/powers/nimble.json"
+hash = "0404dac0e61abcd1c35631a655ca55eb1d5cbc348214dc6ab48cc69bcd41d8cb"
+
+[[files]]
+file = "config/openloader/data/tinkerers_imp/data/tinkerimp/powers/small_appetite.json"
+hash = "4b0c1cc3a3d9f8ee6589b2cbd38891ebefd7fc091f3b09ecebab1cee3fbabede"
+
+[[files]]
+file = "config/openloader/data/tinkerers_imp/pack.mcmeta"
+hash = "721a8fca900ba1d2dbaedb6b23771eb4e089ad820be029c3401b925457f611cf"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_diamond_axe.json"
+hash = "6e0efb212b5619a9840c8fabfe540bfd0321db77256e7f332d16563a8a440161"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_diamond_boots.json"
+hash = "2a8e630dfd433855a416006dd246c2db6d7909d92da1ad8838c9821947d3573e"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_diamond_chestplate.json"
+hash = "a05a591b445e63d013cba97ce77cb32140b3a76d074c353610d2e4a31b7deff0"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_diamond_helmet.json"
+hash = "7c4de2c70d7677b1ad9b5d0a8d16cc02b6e9df76e23a2b8af99393d0edbd1d69"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_diamond_hoe.json"
+hash = "87e9a6dc0767f8aa5740df9e344e82ab602a962ce8bcf3d4cf1cc64ff3952391"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_diamond_leggings.json"
+hash = "0c1e714142ffef18180c97f9bcb4374b0515b721f8a319486ddab718e8b660f4"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_diamond_pickaxe.json"
+hash = "146c536bf8a0fd7dbb1bb73884a5d310cc3fa0e799bcd3d7b28a87a201ec2435"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_diamond_shovel.json"
+hash = "da049b74f7bfa11ae58932a0400e382fac4ad12369940193b64eac25a97fe0b8"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_diamond_sword.json"
+hash = "02bfecce9796ad4d519e7760d2c96a5cd6721bb13857dfec5e1950a44f226d2a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_golden_axe.json"
+hash = "2bac17c9d15e586410bd3b51cab61038695cd82ba36aecffb87c9065dd5fe875"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_golden_boots.json"
+hash = "f051c5ef24a6e0feb78f142e8833d1ba145305762c3e5c57b8f82fa8906d9ae4"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_golden_chestplate.json"
+hash = "4ea484111a9f60d4d73a2e1f8a367d086bf4f8995c1e6d97eb1447b1aae8fd07"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_golden_helmet.json"
+hash = "0aea92dc1b9897c7239516b6fdf9d7e86fb2bda811ba0eacf36a5760de3081e3"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_golden_hoe.json"
+hash = "42bdf56dd516ec406d4ce630de848e3b07c0b933e4aa249435ceed44aa982b81"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_golden_leggings.json"
+hash = "0f17d50ba9663d305a54781d9c2a1888d8d0d69e95b31a28d2d9e6ce1d7df73e"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_golden_pickaxe.json"
+hash = "13b61fa28103d1890d90b522ecf6e7c756dc01be36141065ded3a94e51a5fdf7"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_golden_shovel.json"
+hash = "02d477f60268552a800ed2735d73106aedb4d9dd4f0df546d23f630c76be9a0c"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_golden_sword.json"
+hash = "09665618d5341d42820359d950410b4afe03a1665ee90e8a25dc10e350d9f859"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_iron_axe.json"
+hash = "d91cb841ab65162a566f464beb0ec2feb9df1bed74e05214a1b576c57fa414f8"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_iron_boots.json"
+hash = "403d4303b4bedd2185bf66e26627a2fc080bd34606fbf9e505c78da7210f0a70"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_iron_chestplate.json"
+hash = "6a975007c9bcdb726eb9fe54ab8c103794e44d6d55d563ad5170bef53b574a94"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_iron_helmet.json"
+hash = "11796b68fc989711622c902eca1f47bc86713e8caa1040bb97e35901ca682ef2"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_iron_hoe.json"
+hash = "b6c9d552665181dbc895de514f67c553dce485d5b447e509bac5d2456bc05753"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_iron_leggings.json"
+hash = "2386d1c3e10459e979983978391454652d5852ce799040645312ae28c9fb7467"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_iron_pickaxe.json"
+hash = "ce0c2db0ef209b083913d15870703dccbf8680587f3fd5e52a2bb5f70956d13f"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_iron_shovel.json"
+hash = "9cebfb147808aa6f6e6a80daea7b5f2459e3cb853a53930e50c74201ea1921d3"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_iron_sword.json"
+hash = "a1b807c833e9c581d96606bde66794e6afd591e1748a30d4fb842cb2457da885"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_netherite_axe.json"
+hash = "7a3e3bc45e914994e21845ed35da5c576b1d9eb42e47922b4d10b72369eb22fb"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_netherite_boots.json"
+hash = "7529d0933ed538f30b2094ba004dfd20f893d280607325346ed0be4deb9116cb"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_netherite_chestplate.json"
+hash = "62c828b0ae1cef7a15f41f8b2fb78274764a318b10144845c47993913ccaac7a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_netherite_helmet.json"
+hash = "62635e2c8298cb3d908fc94b690ddcf3e4f09ebb8e95a80b4ef61401f8571f17"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_netherite_hoe.json"
+hash = "981c6725c0af02f1baea5e2bac3c94f2bed536e0955731c4ff2efa5f4471a1c2"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_netherite_leggings.json"
+hash = "b2d188f3651abb31beccb91af21202cd3f63e311848fc18a4029bac10ab1a1a4"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_netherite_pickaxe.json"
+hash = "abe61381f6341ab66b11ea4da4814f71114f9e8ea20df96f40f6582809d49399"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_netherite_shovel.json"
+hash = "3ad56be544380efa3e26c28b78350add148945bbdb55a614cce0eb53aa4dfa48"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/dework_netherite_sword.json"
+hash = "791e72c33f97376b816308dc900c6d88b1de368109217cf9ad8bd1b828b5b8e3"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_diamond_axe.json"
+hash = "c41b6ca4ecc67afc9ea71a7be0553dd23222f26ade836a8f220a55cdac041d77"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_diamond_boots.json"
+hash = "acd5451c184567956f8c5b4158e09f1530d37f398c79854d612a03f6fb2bdb11"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_diamond_chestplate.json"
+hash = "c0df9b51c30811bd9b7dbf39c40192d210ab8959bc9f9a5563590bb2d22b5ebb"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_diamond_helmet.json"
+hash = "08c5ce04865f5c4026fbcc151d57fc328c7fc3763935d49410082672de41cf8b"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_diamond_hoe.json"
+hash = "5b5cea2c5209ae5b8019acf961a66265b9e4a46bc6267f14d24437930291221a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_diamond_leggings.json"
+hash = "131f708a4f1e4cfb49cf987b873524e43a719dfa0f933aa3821d97378cf414df"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_diamond_pickaxe.json"
+hash = "87dbe7e5a62e30486ceb81c63cc4c801bbcbbe875b14103eaecd13183670a16a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_diamond_shovel.json"
+hash = "8cd487fda12c1bd73c154eb44a8b77a75418deb2c8588f13495faec52fdcf24d"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_diamond_sword.json"
+hash = "14ffe603e79795ae1318a46f74df146e7d9c7bee02ea97fefdfd82551c0b9026"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_golden_axe.json"
+hash = "9b18554d95ce0546e5eb7b5ba96a67a3d0f5efc2c186287cf0ff0b1a4cf96dcc"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_golden_boots.json"
+hash = "c93c4fae7a44d2b4103fcb82880b4428484676ab108c88365a754ca634267f0c"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_golden_chestplate.json"
+hash = "6059b8f7e2532b4fd1352351630e3ae589f33e166dbc16b4ffa0ccb933f6e8ba"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_golden_helmet.json"
+hash = "17098e41d7beafdff95c04c2c9cc2636dc6c593c07e3bf8c1bc9884c5300e86f"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_golden_hoe.json"
+hash = "b66a99b1a92a5880ba96404ca648343671812dec9589c2279b4cc23f34d2359a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_golden_leggings.json"
+hash = "d3fd022fd02cb5928f660aa54c7f81f70d620cfca73a4cab12bd17fce09a91ca"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_golden_pickaxe.json"
+hash = "17467ba45fad721eb7d8590b709389bc71caa46092251073bec12c83a93d05f2"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_golden_shovel.json"
+hash = "ae95628beb9e2e254bb4f4014e6adcb807899be8e1e40a7bfd27be17596f88cf"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_golden_sword.json"
+hash = "2be69d90b74fda0841a26cfc85a23684bd334714cb846fdb024fd112cf43cdd7"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_iron_axe.json"
+hash = "9822501c19d903dd57fdac01f9dd3ff4815adf5da193a656b12443b67f3fe840"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_iron_boots.json"
+hash = "f060185016e35732cc34ebd90c5ddb21e11917d996ff71ce863793be5371d34d"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_iron_chestplate.json"
+hash = "53de61a38e3323123741090e651bdcd74858754ad3121c51c807f51fcb2dcddc"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_iron_helmet.json"
+hash = "0c00834f2128670328b216c104d383287f69015639dffbb1e52248878a7f9da4"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_iron_hoe.json"
+hash = "14acf5d5c707fab3daebd7247e4f271a8d836f6ee5f94f3503d4096d136b6fec"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_iron_leggings.json"
+hash = "afa32f58addffaacf850560e5735a381c3c8ea0a01d940e97e27c96c81f254d0"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_iron_pickaxe.json"
+hash = "573a5c4070c3e26f38def7f0d615fc0c5928284dc44e7f50f737b522479e7b4c"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_iron_shovel.json"
+hash = "d7e0ba2e4c75ff807cdd2d11745e9bf7eac7041ae12e4208b338ebae70b3e5c3"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_iron_sword.json"
+hash = "c962141104109ab5ae7cf3dd67241254727b17b29e2b940ffb64c3d17049659d"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_netherite_axe.json"
+hash = "7266b73f37509878f667e6bddb201eba5d7452ba97cb56422bd530dc9c38c9f7"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_netherite_boots.json"
+hash = "2a18ff0f1b9b589b4859232bc09a3912e48a3abe0128cca6b15cf5c716e4325a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_netherite_chestplate.json"
+hash = "de8d69dabe5fb985a6d202c3809614f960aa9b1bbecf886c898acc2917d020c0"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_netherite_helmet.json"
+hash = "20caf67541f1b858528beb04767800ae8b3fec7bf295386076583370480a09ec"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_netherite_hoe.json"
+hash = "da5158e999378a6bf8cc1059c7a275dd7c96fb185792a3657ea14395a0dcc687"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_netherite_leggings.json"
+hash = "c9767c57a5e100505959a88c4f08e8c1ff77579b6810c231427a61493649836b"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_netherite_pickaxe.json"
+hash = "15101694b14cd9aa7b8618c67c1e38c7fc8fc32ad00a3ae6e6ff1606ee706fe3"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_netherite_shovel.json"
+hash = "7866c068f41ab6edbf54bd477c5362ac9a78ecbf96fddf0ba5fb54cf2d7f8370"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/data/tinkerer/recipes/repair_netherite_sword.json"
+hash = "2137b82dcc35745f351c9485ba6bac9b950a6fa42fdc3a2ed04df6ec4f451078"
+
+[[files]]
+file = "config/openloader/data/tinkerers_repair/pack.mcmeta"
+hash = "6f5512fffebdd4c30d0157c498282abab5aa34488cac82669490d1604a28dee2"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/origins/origin_layers/stature.json"
+hash = "d0bdb48730c8905a71cb3a9f4f97618dd8ddd6dd02d58ed275824b7421065a04"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/demishort.json"
+hash = "cb16cf27d76f82fab4eb1664e42bd689e97ecd5097a45dcc11d76c09bc6beddd"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/demitall.json"
+hash = "c9db12fc9750328f5e732defbc2c71f2712c9a26f572416619487c4500346cf2"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/hemidemishort.json"
+hash = "21150e5937f7b99d396f5ce089322a9573a7f9152ea5e2cd941cb7c006d5a4c7"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/impish.json"
+hash = "0704a8d9fbbfcb09c681ddf382f230548deef9d5fabaed41e4970d1c839525bb"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/orcish.json"
+hash = "541cec983e5762b14864cd930665a2da51ea2ff7d22fbb2c91cf1e5e755db985"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/oversize1.json"
+hash = "78598f05cd83245a3bfbb86a7438f594f6c7187070cd095aea88d4c04fb1daf5"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/oversize2.json"
+hash = "2a48c59af5ed41c45c7d3115d090f600d2fe1f48b8f003890ec7c6d1f5c0c362"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/oversize3.json"
+hash = "d33dc88790fc3d1a9eff4057c9263807f28129b0955a96a44ea025592d4b0491"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/semishort.json"
+hash = "648e17aabcd2f28b47f00818d208cd29da11788db383b0db01cf6d8ec262c9e5"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/short.json"
+hash = "f649bbd29623d333edbac1fdad8d619c3f5c4e272522ad757d0dcc0d0294460a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/sized.json"
+hash = "ef75b2b761991799ff01621893e14f73b2698104afcc6a275cb9219af827fc4d"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/tall.json"
+hash = "524fbcbe53463167ce3b044e45fddf1836992dce37bf83f03a3ef41cc4830a7d"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/taller.json"
+hash = "7b8e1dca2e527aa42dae73a9a7df8c84e182a732009cae6a5d626c6f77d41267"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/tallest.json"
+hash = "7c19531ecaa30fbb66e73bc49e926e029c2548d9346d8bd8b9b165f2d8de78a8"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/origins/unaffected.json"
+hash = "a23812798df0ad28146a53cc3f66a5e7412458c05a24cdb88350100af8b7e073"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/demishort.json"
+hash = "f55bc6d3ddc3f45d8e3c695e57e9d9cd7c9eea3a8be32307f005e0919eabc67f"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/demitall.json"
+hash = "e8c2a6c235e9e0326b335dbcf90b56e8c4ed8832db98fcafd466b7b6316c6024"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/hemidemishort.json"
+hash = "e7ac12165f84f41d1fde94564334853807e120d99d69fdb1e488ac6fb244857b"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/impish.json"
+hash = "90a0b99685983cfa72df8a32713a64fda3fe7a880753e7038fde27b2dcb386b1"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/orcish.json"
+hash = "aa77f7e67fe772ba51a89aba9cb923cc9f16777886ffde4a3d18b03b0d8e95cc"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/oversize1.json"
+hash = "bbe054faf26b42fc38f4f4e6326e409caed9e0254bd72b591731e6b7f9da4cca"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/oversize2.json"
+hash = "5d2c1d38723b1a3f9910d2525776a59d5b59c2153d5ea50af9d00aa82b5284a3"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/oversize3.json"
+hash = "cb8ffeb4cd516a6344963227c15c62edfb60ebea1d4861bbdcbd5032ebe42285"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/semishort.json"
+hash = "bbc520235d3a957edb6485f814ca7b81d4b7cc20228857293d9c8ad07792603a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/short.json"
+hash = "8869d809c0d1c4e0506f1fef9677093fa25361f5bb6bd57b432edde158d41a09"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/sized.json"
+hash = "8f200103579e2a048bc1cfadcfed1c40787d220b71739005bfc851e64ec920c0"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/tall.json"
+hash = "c8017b13276968d160750fc043b05eae20e6e34cbe35aa840f73ecc43e1318ea"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/taller.json"
+hash = "d44dabbc84fe2578980fb02688bce00c47645e230042f5f6f228a5d16161e946"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/data/tinkerer/powers/tallest.json"
+hash = "728a5fba4abafe9e32c4da88be63d335175e9839463f40338cff813ad8d0aca3"
+
+[[files]]
+file = "config/openloader/data/tinkerers_statures/pack.mcmeta"
+hash = "33a4397c2a50317a1e9cb5ce6bda3edc363577efe267d934b569e7942de98237"
+
+[[files]]
+file = "config/openloader/data/tinkerers_tags/data/tinkerer/tags/items/boots.json"
+hash = "0b11aeecc520cf00c3f03ff1de284020616a522ee1d9a94221d6524a98629e96"
+
+[[files]]
+file = "config/openloader/data/tinkerers_tags/data/tinkerer/tags/items/chestplates.json"
+hash = "4d1a35c14f22888e5654cf457d6e7266c69027851dac7faef871be46f694322b"
+
+[[files]]
+file = "config/openloader/data/tinkerers_tags/data/tinkerer/tags/items/fence_gates.json"
+hash = "f4c9b0981db93428dc77afab3d682a5bfabc9a92e79993bf29c19ad84cef34f5"
+
+[[files]]
+file = "config/openloader/data/tinkerers_tags/data/tinkerer/tags/items/helmets.json"
+hash = "bbc3c703cb9df1c1998780840cbaa48aaedfef07cb59d9c1cf8f3c8b4b301dbb"
+
+[[files]]
+file = "config/openloader/data/tinkerers_tags/data/tinkerer/tags/items/leggings.json"
+hash = "06c289441493a0ca494052ba61ca7bd443cd8917351c8c708a9ecb1695ef21c3"
+
+[[files]]
+file = "config/openloader/data/tinkerers_tags/pack.mcmeta"
+hash = "f0f8ad4d1e7fae0a6a8a265ab947cc41d34688289a704453cd72f69f3a8ec1b2"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/origins/origin_layers/origin.json"
+hash = "5a3a6bc4bad190a9895bc745becab2c327aac8dea5304a03e4cd9d71b461f145"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/origins/vampire.json"
+hash = "59ac3ca625e4616c1f27f00f48d941057782e3e174d6b7593c6a695422c9ce2e"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/powers/blood.json"
+hash = "13481bd9e346c2dd81b32b1aaa00bea7812c5dccef3c34d02f6ae59df205a2a1"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/powers/blood_hidden.json"
+hash = "d76f523a23ccb109a54f7a8622caf5e7f98b53dadd361dc0edc613b8c6d4f68c"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/powers/feed.json"
+hash = "6accf8b712abf68e567f37b1d274809691b7ee6b96bab274539c0039fab1a639"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/powers/graceful.json"
+hash = "c171d25e1d7747d24a4ad1d7be0f8b63d75d09604733735b171b6dad0751c015"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/powers/hunters.json"
+hash = "cb7087a2f47675cf89d4138b193cc5aebb341b59e7280602eb053378b50323bd"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/powers/nightstalker.json"
+hash = "708eb372c50a171869e7f0c5ea71bcfa914a6f965dd3f9f5e773b6805000167e"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/powers/shine.json"
+hash = "1caaad8e422a6f71b8aa4a25df3ae4fd9f97a9f82dfdd91ed78d1c80368d37fc"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/powers/smoke.json"
+hash = "2cd4b4d9cc77fe0451e34fef31fba4d0fa8ea57aa30c488b4dcc65311d036165"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/tags/entity_types/highblood.json"
+hash = "75bcfb6dbf1730a45ed657b59c3761bb9d3c03487ccbb1d281bf7b37d0c6ad31"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/tags/entity_types/lowblood.json"
+hash = "e5cb57edee5bdfaaad5950cf833b1a13a19d1b631cb73b0a99eb971bf22de669"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/data/tinkervamp/tags/items/wooden.json"
+hash = "64a9a68e4054e3fee6c35656a2d96a87b464814f5dcd6aac8b9178536b307981"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vampire/pack.mcmeta"
+hash = "3036f79112c03c62d97b6962abbb74301abeeafa474657424dfe4df9d066a81a"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vegetarian/data/tinkerer/recipes/book_quill.json"
+hash = "08b3c0d3329d0f2bc038a1d68386d5fcb5f5b89aaa4e78420878e34ab84ab330"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vegetarian/data/tinkerer/recipes/glow_sac.json"
+hash = "4d24fc94706c050d8d0bd175987e47e0a0125087816324209d06ab77105436df"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vegetarian/data/tinkerer/recipes/jump_boost.json"
+hash = "93ab4bf50f8a71a0d1a8c96fc283bf50f97c407c7e1091f7a55230fe17064c7c"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vegetarian/data/tinkerer/recipes/repair_elytra.json"
+hash = "6adf40b8d177636923a084f27a6bf5ce91f5b3adbffe2909e7abc68e76364082"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vegetarian/data/tinkerer/recipes/slime_ball.json"
+hash = "2915a7eb678610d4d366886bb1ba30169ce1ae316ff8704d8ead79a4719e4d58"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vegetarian/data/tinkerer/recipes/slow_fall.json"
+hash = "33a0fddaf16777c383a771ebf5b62d2e17b473f6187828c2a8651647b4485153"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vegetarian/data/tinkerer/recipes/water_breathing.json"
+hash = "7606589401c0e5c71c536f352f9e616d2b22a259cc0de8f516a0089caf76af94"
+
+[[files]]
+file = "config/openloader/data/tinkerers_vegetarian/pack.mcmeta"
+hash = "794a4556abaa6a9e8781aa681457ecb8bd3ba78ec72e2718a96fe646ebaf431f"
+
+[[files]]
+file = "config/openloader/data/towers-of-the-wild-reworked-datapack.pw.toml"
+hash = "1ee702515186f76fdf182a075c5a62894277ceb92e3caa0cb7c426e6d680cf36"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/VanillaTweaks_r239108.zip"
+hash = "4f6f464112a38507b152258aa064d451323f2acf7411cbee36f5bd70a69c74f6"
+
+[[files]]
+file = "config/openloader/resources/tinkerers_assets/assets/tinkerer/textures/gui/conduit_quest_diagram.png"
+hash = "d36bc3c267ed3c93595278fa0eb3df0fb44caea69d519f3f2666879c965199a9"
+
+[[files]]
+file = "config/openloader/resources/tinkerers_assets/pack.mcmeta"
+hash = "087622bfdc793ea891db4f6076e28aa34312b975452a964e603a48116a924636"
+
+[[files]]
+file = "config/openloader/resources/varied-connected-bookshelves.pw.toml"
+hash = "7ad422d13158ebf54243285494d33853e80bad900360b195b1febf8662595c10"
+metafile = true
+
+[[files]]
+file = "config/openloader/resources/xalis-enchanted-books.pw.toml"
+hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
+metafile = true
+
+[[files]]
+file = "config/pettable.json"
+hash = "17b28d004f9b3d3fd9dbffb2a22e2eaef072c0dbdffa1f89ecbb59082180fb0a"
+
+[[files]]
+file = "config/projectsavethepets/projectsavethepets.json"
+hash = "a3db65d064f25b4f2899eb733d168231d8bc605e80c18738a3a0f333969defb5"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "4b8f41e58609c3933456ae462fbbe0f9f2c0f37d4a1bfda8c98f85e90c94cd91"
+
+[[files]]
+file = "config/quilt-loading-screen.json"
+hash = "c9b843a1d89fbd86aa5e10f015d6ebad265897bfac6f2642f1f46a3c23073e86"
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "bd06f02dd732a2b24c13b7b98a89ef873568f44fbcff1ca608f3fa9f70b05104"
+
+[[files]]
+file = "config/simplefog.json"
+hash = "f57fad623a4d05f111b923cf126984f15830f8dc24b10d048002b079d47e9257"
+
+[[files]]
+file = "config/tiefix.json"
+hash = "25436300c7278b92f8c185dbfe9d03da29b4324302c33bc59d73e3fbe05da773"
+
+[[files]]
+file = "config/universal-graves.json"
+hash = "98aa54aa781ba624315696108e1e4b7842eba3c67ed680e23cd7d8627f004e0b"
+
+[[files]]
+file = "config/yosbr/config/charmonium.toml"
+hash = "de7057d00f1ebfe02a01b299778660eb23c13564f7796df828b8c0d437b25d1c"
+
+[[files]]
+file = "config/yosbr/config/clienttweaks.toml"
+hash = "ae56a8fcd0e5fd14766191e1b5d2fcb70a7d8cbd254d8615be882c22e27ad94f"
+
+[[files]]
+file = "config/yosbr/config/emi.css"
+hash = "dbabacba5d2c56cc17a955f69c25a996d1fd6d744f4dbd14218727fe1a6158b6"
+
+[[files]]
+file = "config/yosbr/config/illuminations.properties"
+hash = "66f8b45a4b5b90f0fd6ae4e641a807d2d3bbcd8cfda3441502ddf1a9df3c689f"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "2ca45b5d72c1660be8e627f4536377b2af58454c391f66d3416ffd18c094fd14"
+
+[[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+hash = "73b6c889f2ea2e0ea2448830944874a1ca0be0c857dc5416845acc9b5969c7e8"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "2e3350eba8775df655664378743a5b7897135cd146207dd5bc0782efea89a611"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/updater.json"
+hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
+
+[[files]]
+file = "config/yosbr/config/presencefootsteps/userconfig.json"
+hash = "4ad2bc274fc46da9c2dd48083e6cb25206a4fea13a11112e94671af80647e87c"
+
+[[files]]
+file = "config/yosbr/config/sodium-extra-options.json"
+hash = "9eccb4b1628c1fd0bf3b08b0fe1a0671cdd7c4ec9a382884f37490864bc00c82"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
+
+[[files]]
+file = "config/yosbr/config/styled-chat.json"
+hash = "d95975900e0f160078b3bac00740000a43af0d76abdb8c7f53bc4154d17a4cf5"
+
+[[files]]
+file = "config/yosbr/config/styledplayerlist/config.json"
+hash = "1293555dfac9aa2ed0fb8491a6fd008be3a2d0aeb6f2d3b4fdb32331d09f4501"
+
+[[files]]
+file = "config/yosbr/config/styledplayerlist/styles/default.json"
+hash = "9ae03c8ae2d77dac24eed22ae517e82576aa03fdeb230976b3bfd8f297a7d768"
+
+[[files]]
+file = "config/yosbr/config/waila/blacklist.json"
+hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
+
+[[files]]
+file = "config/yosbr/config/waila/waila.json"
+hash = "a6aa56d476321af40170060736245ac49f2c0f3d1d3b24edfede0cbcf1dba9da"
+
+[[files]]
+file = "config/yosbr/config/waila/waila_plugins.json"
+hash = "a5c790cce27b07ff7d73b4f0eac1386e3d28dcc9a051eaac1845a00bac950eba"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "050dc01dff3a02ee088540de17abcee571e4213b738dd19c1d9bcffa7383f098"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "e7f22364fd560ebdc20c53e3806dc6b1f06e64a46bc5969d18475f671aa13c19"
+
+[[files]]
+file = "config/yosbr/shaderpacks/BSL_v8.1.02.2.zip.txt"
+hash = "15b7e91d31db25b7fd63ac0c64dc518510e89f3fe94d63c4caec782ac4148db2"
+
+[[files]]
+file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.4.zip.txt"
+hash = "1f51ae0e43ec29c2fac9e8dfe7b5713e7496730aad13d94b41df4503230e3919"
+
+[[files]]
+file = "config/yosbr/shaderpacks/Prismarine V4.1a.zip.txt"
+hash = "a2dfa210364c571eb11902c78003331c58f5d4a38b0495a210a90f31903c967a"
+
+[[files]]
+file = "config/yosbr/shaderpacks/RedHat_v34.0.zip.txt"
+hash = "50d3954391e66640c6a5dcd5eddd48bc4bfa5c25704eab8d164a66015e9700dc"
+
+[[files]]
+file = "config/yosbr/shaderpacks/SEUS-Renewed-v1.0.1.zip.txt"
+hash = "1cf7c12b7728b4925c33d36bce4ab6d2177dd0235b004e9f74b081db5337d298"
+
+[[files]]
+file = "config/yosbr/shaderpacks/Sildur's+Enhanced+Default+v1.131+Fancy.zip.txt"
+hash = "c1dd42911b75655dad0a2d7775ee77984a7e048713fffee8ccba902e7294aa62"
+
+[[files]]
+file = "config/yosbr/shaderpacks/Sora_Shaders_1.142.zip.txt"
+hash = "cf92f4f81e0b7407836e723540653b4d6c73addde97b6e7cc651fefedb8854e3"
+
+[[files]]
+file = "config/yosbr/shaderpacks/SuperDuperVanilla.zip.txt"
+hash = "082829dcd697d1cd1dca77561d395554da43c5dd23abeab25052b212878ad434"
+
+[[files]]
+file = "config/yosbr/shaderpacks/Triltons Shaders v8.zip.txt"
+hash = "54f0f263b9c947d42f0f0c7dd030bb4b2ddc189d6d65a4900e35710847380606"
+
+[[files]]
+file = "config/yosbr/shaderpacks/projectLUMA+-+v1.32.zip.txt"
+hash = "3d1ce5a7a66eac177f7c120f78afc2c54ed6b68d95d4c8f6d78bd770d955ac3a"
+
+[[files]]
+file = "credits.txt"
+hash = "4e765d4c3866e18c90b51485fda4f0bd07f4f22e14d599d75b880d347a7c865f"
+
+[[files]]
+file = "mods/Blanket+Client+tweaks-1.0.4.jar"
+hash = "f4e8d2ac9ecdfc9ba9f4e8c5aa513ab1b8e5eb442881a7898352d2bd7d317cba"
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "9f22e2a556a371eb5acf2f7b1e63870f7008fa6c18ed1e4d5b3236ee66828317"
+metafile = true
+
+[[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "61036200545f313d79671bcff059eb6e2d18b3d446761ce93c68a8bb894d4d63"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "a99688ffd36348fb95efe3340366dffdc63a62c83cc5eab46a815072553564f3"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "0e0112e01df097b7f015ac0ad6a98e173c8e98a27719237ef21be06f8ad09fad"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0940f87fc8d934433725019169945f77b7c27bd4a23828286ffb68aac4810a6c"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "2fdcd8eb8a2e5ae247fad3b5a44d4a3cdf9228e999ecfd5949648d5d1554f345"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "d8fe226cd050b8c94fcb98819b2646a74863ad8d52fc22db37c29fe66e53996d"
+metafile = true
+
+[[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "85d6e453a9bb4076a0baad9a9d91797b1359b762a61a00c73bbf8ee2b8f14808"
+metafile = true
+
+[[files]]
+file = "mods/better-biome-blend.pw.toml"
+hash = "cb31a6021573e5d57ca44d97e64f5e80f91caa7dd8c08c3b5d2afe72e48da306"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "1dea45a775887e68b1cafb587498dfa5514b3ea8d17ea58783920397f89ff7d7"
+metafile = true
+
+[[files]]
+file = "mods/cardinalboats.pw.toml"
+hash = "18a22e96f065baf3c165a2bf750c12517f30d772ff5e7e42338d1ccbf99ce306"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "7d8f41b1d67756a024ed291bdb5fe10a55e4a1a4934cb5ba2f1a819cae8becf0"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "fafb8b44d3f00f2d63dba642ae46704d21ccfceb4ae510b320fc76e031e10669"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "9d964354c8312bf29747e4ad32fb3967f868b8ada1de92ed6b25742eb87ea3e8"
+metafile = true
+
+[[files]]
+file = "mods/charmonium.pw.toml"
+hash = "76d8b6d0c6f04312cc1174778722bf6b7017ae683bc1f7df44d5b92b20882f46"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "8a3b58552083779e461ff3ac406f81bb1b7057974f161cba2a090a5b2f73a205"
+metafile = true
+
+[[files]]
+file = "mods/cleancut.pw.toml"
+hash = "dd705d8746647a87086cd2994fe9864a799a2b6a6e5fd3445c06d65874183151"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks-fabric.pw.toml"
+hash = "e2f2c0c296d9c38721b080303b40bf2866395871c1d643abdcca8a7905351b8c"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "4ed6f98bd55bde1e076f864ba2b3918710ef2ee664ca332fd538c6ca27f280a0"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.pw.toml"
+hash = "0b9c8fa1e2dfa64f787a0562200f54bb5afc401196dac20a9886c0f92f575b5d"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "5ff4e61ba19baca3337f1ff6aa31a6d906d8c30efe8af15dce3f44beb8297d5f"
+metafile = true
+
+[[files]]
+file = "mods/couplings.pw.toml"
+hash = "f11a3f0c5dd3c319162b5c42fabd24d0bbb7bcbe383dc5c77d361c7b64488acf"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "cd41e5b7c8618ab49ce53eb61df2877be283b16eebf92b11f1b110bcd8494a02"
+metafile = true
+
+[[files]]
+file = "mods/drogtor.pw.toml"
+hash = "fad6f28559d65c45e6b594a18902dff0a3b27de7bf2cfe0fe52e809c1409563d"
+metafile = true
+
+[[files]]
+file = "mods/dyeable-fishing-lines.pw.toml"
+hash = "c158b1949068207598f5ce696da793f3f6499042ac332a36a9c7ffef12a7e4ad"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "895af62871364c14a635aa674074ab0e5dc88fa41eb6a60bdab075feb106a6fe"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view-fabric.pw.toml"
+hash = "685850cd7d55ca8ff8feb375342adef44e35f2fdff84a6b54f976cfb374bf8ef"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "c3775741edc094735abe1882c84031e0793a2456666624e6440034f1376db72b"
+metafile = true
+
+[[files]]
+file = "mods/earth2java.pw.toml"
+hash = "82e315b100b9ce182fc67e7b0a2bdde3f6807efbf5b33e4970f2c6abc3bbcf61"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "686e7208edaa2689b41630cc78ea777911f07ef98a8fe33ddafecf8b5b61a8ed"
+metafile = true
+
+[[files]]
+file = "mods/effective.pw.toml"
+hash = "5538ff8bdeefc841eb435b29920db57b882e9e0960811ad666fa0070d6314451"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "bc859d5d17706a14eff618bae19efe135954a56c5afc963a84a6591ea468cd5e"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-attack-indicator.pw.toml"
+hash = "0ad7e183c4b803999a0f45b67a63c32e6638a3f1b33e8a659ad0ca08651caecd"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+metafile = true
+
+[[files]]
+file = "mods/extended-clouds.pw.toml"
+hash = "dd0905b3ca5fcffc9680217cb390ab187ef28eae006bee49d6ceafcfcf8f0db8"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "01b72ce96ae056d7c026dfbc954f2f2e1fb8de33f0af75da5aa5b4c1583c669c"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "33f3369dd4d55040c994446eb5090532bfed2a4861bab50de193befd5430ce9e"
+metafile = true
+
+[[files]]
+file = "mods/fabrication.pw.toml"
+hash = "cc506e39fadcc56f7e120fd2f47a9d9cb963b9255c39c35b812ef789f976e463"
+metafile = true
+
+[[files]]
+file = "mods/fabricshieldlib.pw.toml"
+hash = "3fa20c7a4f4b3ed95d5959a2864a8a2b269e26cb33884c1acc297d72acbc2fca"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "e24fd484e773212e89e60375273902a100c4134f1d15eeb61a99e4364af2e39d"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "a2f5ac9241681699e8bcd7da4c90e9899686290f883a63c56f7009f18f731e7e"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "2a7ee2fc40368d86e59563d23228118d8a3004f97ffc0c081062e77f41a6f532"
+metafile = true
+
+[[files]]
+file = "mods/fastopenlinksandfolders.pw.toml"
+hash = "a06f7b752a79921fedd37af55571c5a2eabd66c9543617e953bd2f73c6987bcc"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "41bc0a9806bc79afa3dfc650fe251b85711a166b059c5a1273634afd0b5a792a"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk.pw.toml"
+hash = "f5fe536e5ed5c4f67a8ecf1d98591e0913b87bcbfe6b08d9ea1adce732359204"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "1ccfd677a7cb6b2f5ab58f7b4b631f3c4974bf597111d3a8700036a811518b4c"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "82e3915e6135ad09d14a7b1fb02636a3a42ae590b34729dd56a7a493e13dfd91"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "276193a9bb2f0dfab2eb49bebca2c089b55c00526b3d17f2d03a16f33c51d9a8"
+metafile = true
+
+[[files]]
+file = "mods/fwaystones.pw.toml"
+hash = "1c664e463bb0e1c63285620539622a2253cdcb35d1042514add8ce040c6c3cd2"
+metafile = true
+
+[[files]]
+file = "mods/grounded-origins.pw.toml"
+hash = "05c435b4d4aaed7cb04c456564361d44beed262ba8bfb7ea56cfdb7b637a211d"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "8e64e605cb87282d854c4cbc974ff166f3bcd4f989c6eaa511cfa3a82f49d4fc"
+metafile = true
+
+[[files]]
+file = "mods/hwyla-addon-horse-info.pw.toml"
+hash = "d0fa6d90658e788afef7be9e18df3a6504c6041c4987484d796adc1d99cb4707"
+metafile = true
+
+[[files]]
+file = "mods/idwtialsimmoedm.pw.toml"
+hash = "89fab271e3f924890f8e9b61fc426a1b2ed93e84c54a36d5d6d68bb0e9739a7e"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.pw.toml"
+hash = "51b2cf9c384702759063d17292aee63d1894a40c51ea613d00b6d2b34fe5a905"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "0e89684da352997f2663602d571b67bcc840576f5c13fc32cafeb92054370325"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "cd467738240f2c4153f461604406ff4d18adbc4ad38add3ce8aedd3d5f5f0339"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "7586317e8f493545d692287fb8b5e8a6027772b529d6e2d9ba97c7c09c64b26f"
+metafile = true
+
+[[files]]
+file = "mods/item-filters.pw.toml"
+hash = "34c3d305cba253298133e2f9da0da457b2d353cef6bcdd80707a3acfc75bfaf9"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "56e3f31a4b60597aba78b84fd66a39d13280d3a125f6a9bf7dc65ed0f9af009c"
+metafile = true
+
+[[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4aaca2ff5a41c228fab619d11241204df5d5eb73e32a9fc7a26d4b98f34e7a5b"
+metafile = true
+
+[[files]]
+file = "mods/kiwi-fabric.pw.toml"
+hash = "fbb9662ed3d8d0c111fa742f1a63876846d3d70aadc44460ad982d27072025d9"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "d609573e65a0c0417060648951d396133b295f172fa8f21ce6566d66d27e8320"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "080d4789738ae0015c0a1fc76ffc3f6487f55dc5877b3de1c3b458b544efe362"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights-2.1.1limitless1.18.jar"
+hash = "80abe987afe04ca124ce85861d03e7d3dc2c875d71c59cba2b78c0866cba3cb3"
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "da1b3ee71d9ed1f17da4c85ca3da39af3e49fcc5bb032689613c4e00fc587a40"
+metafile = true
+
+[[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "e969f8b43e5679d9adf2f027a744f65b011904aa5ad9dd451a48dcb0521f2966"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "83541b1d3e1e936638a6938eb505bf0f508c13aed7f8416af8d064ffc7cda4dc"
+metafile = true
+
+[[files]]
+file = "mods/live-fishing-1.1.1.jar"
+hash = "ca0587b2c2b82595cd13de2c4cda44226939c78da57c3676cb72cca391237b3e"
+
+[[files]]
+file = "mods/lovely_snails.pw.toml"
+hash = "cea7e57f790cde53db4a76005bca2079df37fcb43df16961fbc6b2e116100b9c"
+metafile = true
+
+[[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "3457ed6246b871992e2bbdcd2daeef9457933d562e5e9a86e9e22257fe990391"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "c245e4e6896f1702f29aaf0bfef3cbce1d82b4f0fb8d44a526690f4d965f75e0"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols-1.0.0+1.18-front.jar"
+hash = "b2e943a38962cdf6fff386e68fe1857a5348d17bbfa6c62311526a6f7fe02426"
+
+[[files]]
+file = "mods/mod-settings.pw.toml"
+hash = "f494cb48d6e1d8d5c3460a8f689d2b05b2a0a5cebe70a3f70a305ef620e4b860"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "c00114ebbbdf5b001d7a81f9508a6c6675fab5e7cff89de3cc7d763e7ab33427"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "030b818f7aa75596fe5c0a04b15c66dc0531c79aee5820a30379cc5af77ee46d"
+metafile = true
+
+[[files]]
+file = "mods/nbt-crafting.pw.toml"
+hash = "641ed9e6ef81f5878cee92d0fd317b5568439a0e5da09556d59ab683650b8788"
+metafile = true
+
+[[files]]
+file = "mods/nofade-1.18-2.0.1.jar"
+hash = "cb6345b67f2f14708f0476d6797267466862d1a0e5b1a5dd530f43c0d45951ca"
+
+[[files]]
+file = "mods/norecipebook-fabric.pw.toml"
+hash = "d311731f3bdaa3be7652355d22e9b61934e70764dbe73194075badcaf727e921"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "0fe0d6fbfb0055d698f2d4418e49be65492176601b0066d8bcd1b61f7d231e8f"
+metafile = true
+
+[[files]]
+file = "mods/notes-fabric.pw.toml"
+hash = "542beef9fcb9aa14d26168040a98f83c0724db5f1dd3b3c74bbda72dc90a5f12"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "d240a40073a8ae5c5f56b4c3cde5d78951ca71dc5b8279f0405f346a537659b7"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "23e8f5ab53b5b4af9187aa72f2f9f3070f160ad7aa7e08944d8df34ba6a575ba"
+metafile = true
+
+[[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "e86696acaa29f3e9732505a051010a98dd247ded2d669349a754602e72962916"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "4ace069e9be0d26966a236d4935edd5832d2a52e2268a43b63eb7843130b384f"
+metafile = true
+
+[[files]]
+file = "mods/pettable.pw.toml"
+hash = "21fa7484096522ee95c09131ea8dc3246e1001253d483784844832bee6dd9b07"
+metafile = true
+
+[[files]]
+file = "mods/player-pronouns.pw.toml"
+hash = "011d1d3c2620dddd3f7c253f7d0993a92e7977777b0517092254fd886bd5a267"
+metafile = true
+
+[[files]]
+file = "mods/portable-crafting-standalone.pw.toml"
+hash = "b67fea5ed6dca8de6f51b69d6d991173e6b0bb393f248ac53c7c05b3f219236b"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "3536ef11faf8108f2f925487b793a7f19fee9c67b270594e0f63f44f9d0c26ff"
+metafile = true
+
+[[files]]
+file = "mods/projectsavethepets.pw.toml"
+hash = "1a17e4c274d22190b03e0c4f7e442304b9390de11fe7fea93739e70de4cb498a"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "761170eaeece33f423619aefe9de989bac69c68deb29f7df8653eecabcb303e2"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "1c3da43b601fc0142ff6b706d48995846ca71d1d6ebf8cda355e4a124630a4a4"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "8c0b6b4af1aa2dda3b4d09ac32640b4f06523100a66be0c794d39688bacae3bc"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "389f2d01e0f3417395d0ff8c9c7b267c8c0b1f2d67cb583a450a637bec8f3239"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "d714f6e72ebc849970b4c28384ed68f95624f497ea39d18b92e3e79251cbf659"
+metafile = true
+
+[[files]]
+file = "mods/reroll.pw.toml"
+hash = "dc8ef389dc9b6a1ee2b6f88e8855d2b7de753375aab7f4c87ba0be49f5074035"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "1a44092a2a331f6928860db72aa31314b775e0bc11115facc0504004f7b6d286"
+metafile = true
+
+[[files]]
+file = "mods/rusted-iron.pw.toml"
+hash = "40b4810b562c20a94c3ab171c17b02cb2b548d1f5b1e437a82d630611e7d47d1"
+metafile = true
+
+[[files]]
+file = "mods/simplefog.pw.toml"
+hash = "afbd71d5fb7c1c001608a25a9c6b3b540713fd662524db7c43222ff6f50658c0"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "0bb8efa177ff2c5b54bb0bcbadf5e5fd2ae57c0cb71e533e7d8b896f12d9af4b"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic-fabric.pw.toml"
+hash = "07678bc1c42bbe1d1e44fcdde9fb2080deb90551d1b3d06eacbf40ca831e2f16"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "dd3572a0414b6d647f18d4571a8007f0f93ebd7092d08aefa194861878a42c6f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0c83c344046d0b96fd7dcd9e5c98c44caa3d307126d502f202dba50855304fb9"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "ab37bb833d205f015f036157645e05a61c837b7e1f9e0132bfa8a6b14c8064a6"
+metafile = true
+
+[[files]]
+file = "mods/statuseffecttimer.pw.toml"
+hash = "3610cc0efd4c0bfa58b962452b7ee2c735f3c9a86c66b175a5c186258aaeecc7"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "248a870f42a898efe9c659735f555e803c9c8e1cebd00cb420ae51d9a07adeb3"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "eb45dfb9e6cbfa02639fc89237853d1b3c57a7ee8e4af22aac6fddb5f8560f3d"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "d6f0667f2bbfb1036d3586ad2431c440b85bb267c4f7ad60985842b940e023a2"
+metafile = true
+
+[[files]]
+file = "mods/tiefix.pw.toml"
+hash = "82be603fd1c5c6b19b82a11d1bb8a227b02224f5abe71830d156512f442b4897"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "a6e7a551643518686eeffb6a82888a1b60be749aeb4af786897ff1d331667cfb"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "521243f1869918c709d94db11f69e3b1268a652bac8af0973dec7ee1b4583170"
+metafile = true
+
+[[files]]
+file = "mods/totem-anywhere-standalone.pw.toml"
+hash = "6d2af0a35b3d458fdf4c6cee3974e828973138c81ee3af3ed8d0d70958b91cfe"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles-fabric.pw.toml"
+hash = "06e67496f26ce72320a5ed6ee106171cfe28ad0674b89499307d5cef6d6ac199"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness.pw.toml"
+hash = "fc08346de3d1f134796e6b8a88470cfca55f610445e210e0fced2fd2caaff378"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "7a1300eb98aef97135125d2b608136f2f5b1f2c3cd33377417c069c95135e403"
+metafile = true
+
+[[files]]
+file = "mods/universal_ores.pw.toml"
+hash = "2964bd3411bc041dcb20fabc1a33938b5dd8a698402e20407c876986d2481247"
+metafile = true
+
+[[files]]
+file = "mods/valleycraft.pw.toml"
+hash = "7597564bb01ea1049f2bd6b4e4b02a902dd322b559e315d80dcbb995a505ae3b"
+metafile = true
+
+[[files]]
+file = "mods/vehiclefix.pw.toml"
+hash = "44a9a2d3e95649b67f37548a674776df177b002d8b9b0cb8bb8af72657df9f45"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "c47c339948a3dff50f1b879d6748e949c85e1a79c094aa639886b76c5b7301c8"
+metafile = true
+
+[[files]]
+file = "mods/wthit-plugins.pw.toml"
+hash = "e07ebac560f60edd40a74d71ca5d04bb251c8fad809819807312328ccd36eecb"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "98c8ffafe56c38e04da80c8c061e1f1dfc1212a53f3b0c90d7f6b3381c961e95"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "f7b06cb8ec7928fff97239728f125646d9100499fc99281a1fd73486e5fa1841"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "b5e74fec582f1dc10fda86a3c41c00821f15471285c2570c7c9ace3316a438be"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples-fabric.pw.toml"
+hash = "fad5be986f282f1f5bc082970d25fb49fbd875c162835bb32b7f769741a76025"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.pw.toml"
+hash = "155eda7a63a53cce08924e9f9c64aa505b5d7a848f1a592e7ec061154012115d"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.pw.toml"
+hash = "7eb509430f5866b8ebfef43e21cd4b9a73cf6056d18b0cf2cb4ae3cb884dfe06"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.pw.toml"
+hash = "ddb9cf5438bf572b458b64eafcddfb42fb9f719b8cb4bf07412d8da73eb72ce6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "8bcd6a559fe83e7639a8d0b716043be1dad66f3bdc7994602c94fb840c304b31"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras-fabric.pw.toml"
+hash = "43def9ff7e9948695c694d2395f21254fa857d50a4f8bd6f8c40ebd96655769e"
+metafile = true
+
+[[files]]
+file = "removed.txt"
+hash = "58e973b2db753512dc4d17ed8f68a8b960ce9880ffa84605111b8f2d010a5dec"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_BlockVariation.zip"
+hash = "9b3f189a889a95ad441d79e7e415134960e4b6db8a87fd2de75e8dd70b92b9b6"
+
+[[files]]
+file = "resourcepacks/Vanillatweaks_What_Spyglass.zip"
+hash = "74afe3bea48cc4a2971a20edabdead42bd3f587c002829ceca2ffc63880d3a62"
+
+[[files]]
+file = "resourcepacks/woodpecker.pw.toml"
+hash = "fd42ccb660fb5d93169de70f642f0e607b2d615119ee26b22510e4ba147b0bcc"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl.pw.toml"
+hash = "e3bf34d16442e76f4c32c20b0150411c0612eb68fc9e83d5696f85002ffa6477"
+metafile = true
+
+[[files]]
+file = "shaderpacks/builders-qol.pw.toml"
+hash = "a8354f4ccc9593c193161d5fcf711d4e0e24dcb5efb25b537ce4a5f6c8faca20"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary.pw.toml"
+hash = "ce078670fd249237d0f69263b4e38c65a5680ac9dedbb662c8d1bf12ff7f592a"
+metafile = true
+
+[[files]]
+file = "shaderpacks/lux.pw.toml"
+hash = "0f12b99b75a39bdda35a6fedb18797be0c601a7dede9a547fa23dae4361773f1"
+metafile = true
+
+[[files]]
+file = "shaderpacks/prismarine.pw.toml"
+hash = "8a58353fdf45c07c28684996a8a462487493a1804cc841dc9aaf901412e32212"
+metafile = true
+
+[[files]]
+file = "shaderpacks/redhat.pw.toml"
+hash = "adba88d49991421e5cf9e6392214a25ee34ddb01c5420cdf3bc8db1d7c9972d3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sildurs-enhanced-default.pw.toml"
+hash = "d697c3d7c6566871d2f96b3df76b930e32f8e35aa04d8e0cb35ff25910e62575"
+metafile = true
+
+[[files]]
+file = "shaderpacks/skylex.pw.toml"
+hash = "9237e728a15f79c009b67bbff751f1a5ed54c146bc5f466e22971bd47cfb9671"
+metafile = true
+
+[[files]]
+file = "shaderpacks/sora.pw.toml"
+hash = "d3f538ac9c1990c3071082249ead22553d479d23ec7b156ff8ca381ab57a03f3"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "a08f53b43d84671dad18b6c107988d96a762e362b8a5b610521bc57a6312e4d8"
+metafile = true
+
+[[files]]
+file = "skins/bea"
+hash = "4057291d88ce1761d03cd9293d2ceede12a98bb1b2ee9243307facf154276f4f"
+
+[[files]]
+file = "skins/clawby"
+hash = "0fb9986482adb341213a0b8586665c343ea287fdf515e8404ae8c7e8967672ba"
+
+[[files]]
+file = "skins/hornby"
+hash = "7f8df061e1db0d92fb75823ba125e5f91ac4cad8a05f327e3525c1e14cf6ce7d"
+
+[[files]]
+file = "skins/meru"
+hash = "c695b54dd2875a15e9e035bc5ce3eddd13d86f4ee068d4b807e4b64b4e9723b1"
+
+[[files]]
+file = "skins/mollymauk"
+hash = "6e79012dfa673fcfef91018336fd159b6dab4bed87e5fd0b1a28906dabd199da"
+
+[[files]]
+file = "skins/tinkby"
+hash = "65874364e14474a0d31c34bc1c22d59c256d8dd20d5a5d7c97cb194b994af1b9"

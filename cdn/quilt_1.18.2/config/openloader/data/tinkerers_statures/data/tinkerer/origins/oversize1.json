@@ -1,0 +1,10 @@
+{
+    "description": "'Neat.'\nMedium gameplay impact.",
+    "icon": "minecraft:pumpkin_pie",
+    "impact": 0,
+    "name": "Oversize",
+    "order": 0,
+    "powers": [
+        "tinkerer:oversize1"
+    ]
+}
